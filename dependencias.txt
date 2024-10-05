@@ -1,0 +1,10 @@
+npm install multer
+
+Express: Framework de servidor web.
+Mongoose: ODM para MongoDB.
+bcryptjs: Para el hashing de contraseñas.
+jsonwebtoken (JWT): Para autenticación.
+multer: Para subir imágenes.
+dotenv: Para gestionar variables de entorno.
+
+npm install express mongoose bcryptjs jsonwebtoken multer dotenv
